@@ -60,15 +60,37 @@ Users can access the Dashboard and settings through a secure login system.
 
 ---
 
-## 📱 Getting Started
+# 🚀 Setup Guide
 
-1. Visit: https://www.andova.online/
-2. Create an account
-3. Log in to the Admin section
-4. Build your system
-5. Configure feature settings
-6. Manage devices using intuitive GUI anywhere from the globe ❄️
+## Step 1 — Create Your Account
 
+![Step 1](img/step1.jpeg)
+
+Create your Andova Pro account and log in to the dashboard.
+
+---
+
+## Step 2 — Add Device
+
+![Step 2](img/step2.jpeg)
+
+Click **Add Device** and generate a one-time pairing code.
+
+---
+
+## Step 3 — Pair the Device
+
+![Step 3](img/step3.jpeg)
+
+Open the Andova app on the target device and enter the pairing code.
+
+---
+
+## Step 4 — Start Monitoring
+
+![Step 4](img/step4.jpeg)
+
+Once paired, you can access location, camera, gallery, files, notifications, logs, and other remote tools directly from your dashboard.
 ---
 
 ## 📊 Main Functions
