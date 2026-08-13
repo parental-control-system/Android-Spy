@@ -17,8 +17,8 @@ The project focuses on promoting healthy screen habits, online safety, and ethic
 - Device Management
 - Location
 - Activity control
-- Shell
-- Fun Pranks
+- Shell Commands for Pro 
+- Fun Pranks (flash, Vibration, Speaker, Spoofing &  More)
 - Many more cool features (Not listing them here) 🤫
 - Visit the site for more details.
 
@@ -30,7 +30,7 @@ The platform is built using modern web technologies for performance and reliabil
 
 - Backend: Node.js + Socket.io
 - Frontend: Next.js + TailwindCSS
-- Database: Secure cloud storage
+- Database: Superbase, MongoDB
 - Authentication: Encrypted login system
 
 ---
@@ -73,12 +73,15 @@ Users can access the Dashboard and settings through a secure login system.
 
 | Feature | Description |
 |---------|-------------|
-| Dashboard | Overview of device activity |
+| Dashboard | Overview of device activity with GUI |
+| Camera | Access of Live camera feed (Front/Back) |
 | Reports | Daily and weekly summaries |
 | App Control | Manage installed applications |
-| Location | View location with permission |
-| Screen Time | Monitor device usage |
-| Alerts | Safety notifications |
+| Files| Read & Write Files of the Device |
+| Location | View location with route feature |
+| Screen Management | Monitor & Regulate device |
+| Gallery | View & Download gallery items |
+| System Logs | Instant Device and Notification logs |
 | More | Not listed here for security reasons |
 
 ---
@@ -90,6 +93,7 @@ Users can access the Dashboard and settings through a secure login system.
 - No hidden tracking
 - No unauthorized access
 - User-controlled permissions
+- You are the owner of your own data
 
 ---
 
