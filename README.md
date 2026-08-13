@@ -49,11 +49,7 @@ Misuse of this software is strictly discouraged.
 ## 🖥️ Dashboard Interface: Build, Deploy and Manage
 <p align="center">
   <a href="https://www.andova.online/" target="_blank">
-    <img src="img/slide5.PNG" width="45%" alt="andova Slide 5" />
-  </a>
-
-  <a href="https://www.andova.online/" target="_blank">
-    <img src="img/slide6.PNG" width="45%" alt="andova Slide 6" />
+    <img src="img/dash2.png" width="100%" alt="andova Slide 5" />
   </a>
 </p>
 
