@@ -53,7 +53,7 @@ Misuse of this software is strictly discouraged.
   </a>
 </p>
 
-## The dashboard provides a clean and intuitive view of connected devices and detailed activity reports in real time.
+## The dashboard provides a clean and intuitive view of connected devices and detailed activity reports in real time. Switch between themes you love.
 <a href="https://www.andova.online/" target="_blank"><img src="img/slide4.png" alt="Dashboard Preview" /></a>
 
 Users can access the Dashboard and settings through a secure login system.
@@ -61,12 +61,11 @@ Users can access the Dashboard and settings through a secure login system.
 ---
 
 # 🚀 Setup Guide
-
 <p align="center">
-  <img src="img/step1.jpeg" width="220">
-  <img src="img/step2.jpeg" width="220">
-  <img src="img/step3.jpeg" width="220">
-  <img src="img/step4.jpeg" width="220">
+  <img src="img/step1.jpeg" width="170">
+  <img src="img/step2.jpeg" width="170">
+  <img src="img/step3.jpeg" width="170">
+  <img src="img/step4.jpeg" width="170">
 </p>
 
 ### Step 1 — Create Your Account
@@ -79,7 +78,6 @@ Click **Add Device**, enter a device name, and generate a one-time pairing code.
 Install the Andova app on the target device and enter the pairing code.
 
 ### Step 4 — Start Monitoring
-Once paired, remotely access location, camera, gallery, files, notifications, logs, and more from your dashboard.
 Once paired, you can access location, camera, gallery, files, notifications, logs, and other remote tools directly from your dashboard.
 ---
 
