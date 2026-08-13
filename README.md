@@ -51,7 +51,7 @@ Misuse of this software is strictly discouraged.
   </a>
 </p>
 
-## The dashboard provides a clean and intuitive view of connected devices and detailed activity reports in real time. Switch between themes you love.
+## 🧑‍💻The dashboard provides a clean and intuitive view of connected devices and detailed activity reports in real time. Switch between themes you love.
 <a href="https://www.andova.online/" target="_blank"><img src="img/slide4.png" alt="Dashboard Preview" /></a>
 
 Users can access the Dashboard and settings through a secure login system.
