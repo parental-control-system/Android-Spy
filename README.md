@@ -9,15 +9,14 @@ The project focuses on promoting healthy screen habits, online safety, and ethic
 ## 🌟 Features
 
 - No Port Forwarding (Best Part)
-- No Icon on the Home Screen
-- Screen time tracking
-- Camera Feed
-- Screen
+- No Icon on the Home Screen (Best feature)
+- Live Screen View
+- Live Camera Feed
 - Lock Screen
-- App usage monitoring
-- Device status overview
-- Location awareness (with consent)
-- Activity reports
+- App Management
+- Device Management
+- Location
+- Activity control
 - Shell
 - Fun Pranks
 - Many more cool features (Not listing them here) 🤫
@@ -61,21 +60,18 @@ Users can access the Dashboard and settings through a secure login system.
 ---
 
 # 🚀 Setup Guide
-**Step 1 — Create Your Account**  
-Purchase Andova Pro and sign in to your dashboard.
-
-**Step 2 — Add a Device**  
-Click **Add Device**, enter a device name, and generate a one-time pairing code.
-
-**Step 3 — Pair the Device**  
-Install the Andova app on the target device and enter the pairing code.
-
-**Step 4 — Start Monitoring**  
-Access location, camera, gallery, files, notifications, logs, and other remote tools from your dashboard.
 <p align="center">
+  **Step 1 — Create Your Account**  
+Purchase Andova Pro and sign in to your dashboard.
   <img src="img/step1.jpeg" width="170">
+  **Step 2 — Add a Device**  
+Click **Add Device**, enter a device name, and generate a one-time pairing code.
   <img src="img/step2.jpeg" width="170">
+  **Step 3 — Pair the Device**  
+Install the Andova app on the target device and enter the pairing code.
   <img src="img/step3.jpeg" width="170">
+  **Step 4 — Start Monitoring**  
+Access location, camera, gallery, files, notifications, logs, and other remote tools from your dashboard.
   <img src="img/step4.jpeg" width="170">
 </p>
 
