@@ -5,23 +5,22 @@ This is a web-based device management tool designed to help parents and families
 The project focuses on promoting healthy screen habits, online safety, and ethical device management.
 
 ---
+## 🌟 Unrivaled Features for Complete Control
 
-## 🌟 Features
+Our platform is packed with advanced features to give you unparalleled control and peace of mind:
 
-- No Port Forwarding (Best Part)
-- No Icon on the Home Screen (Best feature)
-- Live Screen View
-- Live Camera Feed
-- Lock Screen
-- App Management
-- Device Management
-- Location
-- Activity control
-- Shell Commands for Pro 
-- Fun Pranks (flash, Vibration, Speaker, Spoofing &  More)
-- Many more cool features (Not listing them here) 🤫
-- Visit the site for more details.
-
+*   🚀 **Effortless Setup (No Port Forwarding)**: Get started quickly without complex network configurations. Our system works seamlessly out-of-the-box.
+*   🕵️ **Discreet Operation (No Home Screen Icon)**: The application runs discreetly in the background, ensuring it remains unnoticed on the target device.
+*   🕒 **Intelligent Screen Time Tracking & Management**: Gain insights into device usage patterns and set healthy screen time limits to foster digital well-being.
+*   📸 **Live Camera Feed Access**: Remotely access the device camera in real-time for immediate safety checks and environmental awareness.
+*   🖥️ **Real-time Screen View**: Instantly view the device screen to monitor activities as they happen, ensuring transparency and safety.
+*   🔒 **Remote Device Lock**: Secure the device remotely with a single command, providing immediate protection in critical situations.
+*   📱 **Comprehensive App Usage Monitoring**: Track which applications are being used, for how long, and identify potentially inappropriate content.
+*   📍 **Precise Location Awareness (with Consent)**: Real-time GPS tracking and location history to know where your loved ones are, always with their explicit permission.
+*   📊 **Detailed Activity Reports**: Receive daily and weekly summaries of all device activities, including app usage, screen time, and location data.
+*   🐚 **Advanced Remote Shell Access**: For technical users, gain command-line access to the device for in-depth management and troubleshooting.
+*   🎭 **Interactive Fun Pranks**: Engage with light-hearted features designed for family interaction and playful moments.
+*   ❄️ **Global Device Management**: Manage all connected devices from anywhere in the world through an intuitive, web-based Graphical User Interface (GUI).
 ---
 
 ## 🚀 Architecture
