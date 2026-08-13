@@ -1,4 +1,4 @@
-# Remote Administration Tool 📱
+# Andova: Remote Administration Tool 
 
 This is a web-based device management tool designed to help parents and families manage and understand their children’s digital activity in a and transparent way.
 
