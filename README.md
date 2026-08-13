@@ -58,7 +58,6 @@ Users can access the Dashboard and settings through a secure login system.
 
 ---
 
-# 🚀 Setup Guide
 ## 🚀 Setup Guide
 
 | Step 1 | Step 2 | Step 3 | Step 4 |
