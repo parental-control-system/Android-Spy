@@ -109,9 +109,9 @@ Access location, camera, gallery, files, notifications, logs, and other remote t
 
 For help and support:
 
-- - **Website: https://www.andova.online/
+- - **Website:** https://www.andova.online/
 - - **Email:** [team@andova.online](mailto:team@andova.online)
-- - **Telegram: https://t.me/jrram3000
+- - **Telegram:** https://t.me/jrram3000
 
 ---
 
